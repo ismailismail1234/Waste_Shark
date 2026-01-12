@@ -17,7 +17,6 @@ Simple embedded control
 
 Environmental cleanup concept validation
 
-📂 Project Structure
 Waste_Shark/
 │
 ├── main/
